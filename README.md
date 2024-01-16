@@ -23,7 +23,7 @@ The Text Editor project is a lightweight and customizable text editing tool deve
 
 To run the text editor locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/text-editor.git`
+1. Clone the repository: `git clone https://github.com/tusharvpatil8/text-editor.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contributing
